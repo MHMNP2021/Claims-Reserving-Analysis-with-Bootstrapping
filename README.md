@@ -6,7 +6,7 @@ This repository contains an R-based implementation of **bootstrapping techniques
 ---
 
 ## 👥 Author Information
-- **Team Member:** M.H. Mahinsa Nethmina Perera(www.linkedin.com/in/mahinsa-nethmina-451284288)
+- **Team Member:** [M.H. Mahinsa Nethmina Perera](www.linkedin.com/in/mahinsa-nethmina-451284288)
 - **Team Member:** G.H.G.M.G. Jayarathna
 - **Team Member:** H.G.S.B. Harankahadeniya
 - **Team Member:** L.D.D. Dewmini Perera
@@ -14,9 +14,9 @@ This repository contains an R-based implementation of **bootstrapping techniques
 - **Team Member:** D.I.B. Samarasinghe
 - **Team Member:** M.S.S. De Silva
 - **Team Member:** C.W.U. Arachchi
-- 
+
 - **Supervisor:**
-- 
+  
 - **Date:** December 2025
 - **Institution:** University of Ruhuna
 - **Programme:** Mathematical and Statistical Modeling Week 2025, Organized by Department of Mathematics, University of Ruhuna 
