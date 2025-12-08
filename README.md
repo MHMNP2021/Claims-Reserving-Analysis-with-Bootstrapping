@@ -7,7 +7,7 @@ This repository contains an R-based implementation of **bootstrapping techniques
 
 ## 👥 Author Information
 - **Team Member:** [M.H. Mahinsa Nethmina Perera](www.linkedin.com/in/mahinsa-nethmina-451284288)
-- **Team Member:** G.H.G.M.G. Jayarathna
+- **Team Member:** [G.H.G.M.G. Jayarathna](https://www.linkedin.com/in/milinda-gayashan-1a1a98244/)
 - **Team Member:** H.G.S.B. Harankahadeniya
 - **Team Member:** L.D.D. Dewmini Perera
 - **Team Member:** A.K.A.N. Vidyarathna
