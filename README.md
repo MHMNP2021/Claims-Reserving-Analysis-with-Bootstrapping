@@ -6,17 +6,20 @@ This repository contains an R-based implementation of **bootstrapping techniques
 ---
 
 ## 👥 Author Information
-- **Team Member:** M.H. Mahinsa Nethmina Perera (www.linkedin.com/in/mahinsa-nethmina-451284288)
-- **Team Member:**
-- **Team Member:**
-- **Team Member:**
-- **Team Member:**
-
-- **Supervisor**
+- **Team Member:** M.H. Mahinsa Nethmina Perera(www.linkedin.com/in/mahinsa-nethmina-451284288)
+- **Team Member:** G.H.G.M.G. Jayarathna
+- **Team Member:** H.G.S.B. Harankahadeniya
+- **Team Member:** L.D.D. Dewmini Perera
+- **Team Member:** A.K.A.N. Vidyarathna
+- **Team Member:** D.I.B. Samarasinghe
+- **Team Member:** M.S.S. De Silva
+- **Team Member:** C.W.U. Arachchi
+- 
+- **Supervisor:**
 - 
 - **Date:** December 2025
 - **Institution:** University of Ruhuna
-- **Programme** MSM Week (Actuarial Science/Insurance Analytics)
+- **Programme:** Mathematical and Statistical Modeling Week 2025, Organized by Department of Mathematics, University of Ruhuna 
 
 ---
 
@@ -53,12 +56,6 @@ This project is provided for educational and research purposes only. Users must 
 
 ---
 
-## 📁 Project Structure
-claims-reserving-bootstrap/
-├── Low_Volatility_Analysis.Rmd # Main R Markdown analysis file
-├── README.md # This file
-├── /figures/ # Generated plots and visualizations
-├── /output/ # Analysis results and reports
-└── /synthetic_data/ # Optional synthetic data for testing
+
 
 
