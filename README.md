@@ -15,7 +15,7 @@ This repository contains an R-based implementation of **bootstrapping techniques
 - **Team Member:** M.S.S. De Silva
 - **Team Member:** C.W.U. Arachchi
 
-- **Supervisor:**
+- **Supervisor:** Dr. L.P.N.D. Premarathna, Department of Mathematics, University of Kelaniya
   
 - **Date:** December 2025
 - **Institution:** University of Ruhuna
