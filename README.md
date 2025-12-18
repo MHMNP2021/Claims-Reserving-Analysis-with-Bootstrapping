@@ -1,7 +1,7 @@
 # Claims Reserving Analysis with Bootstrapping
 
 ## 📋 Project Overview
-This repository contains an R-based implementation of **bootstrapping techniques for claims reserving**, specifically designed for **low volatility insurance portfolios**. The analysis follows the classical chain-ladder methodology enhanced with Pearson residual bootstrapping to quantify reserve uncertainty and calculate risk adjustments compliant with IFRS 17 standards.
+This repository contains an R-based implementation of **bootstrapping techniques for claims reserving**, specifically designed for **low volatility insurance portfolios**. The analysis follows the classical chain-ladder methodology enhanced with Pearson residual bootstrapping to quantify reserve uncertainty and calculate risk adjustments compliant with IFRS 17 standards. [Try R Shiny Application](https://mahinsa2021.shinyapps.io/IFRS_17_TVaR_Implement/)
 
 ---
 
